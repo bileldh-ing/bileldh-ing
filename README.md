@@ -53,41 +53,45 @@
 ---
 ## 📊 GitHub Dashboard
 
-<div align="center">
+<div align="center" style="max-width: 700px; background: #0f172a; border-radius: 15px; padding: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.6); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #cbd5e1;">
 
-<!-- GitHub stats without total commits (more stable) -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=bileldh-ing&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&hide=commits" 
-  alt="GitHub Stats" 
-  width="600"
-/>
+  <!-- Title -->
+  <h2 style="color:#3b82f6; margin-bottom: 15px; font-weight: 700; font-size: 28px;">GitHub Dashboard</h2>
 
-<br/>
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=bileldh-ing&show_icons=true&theme=dark&count_private=true&hide_title=true&hide_border=true&hide=commits" 
+    alt="GitHub Stats" 
+    width="100%" 
+    style="border-radius: 12px; box-shadow: 0 5px 15px rgba(59,130,246,0.3); margin-bottom: 20px;"
+  />
 
-<!-- GitHub contribution streak -->
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=bileldh-ing&theme=tokyonight&hide_border=true" 
-  alt="GitHub Streak" 
-  width="600"
-/>
+  <!-- Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=bileldh-ing&theme=dark&hide_border=true" 
+    alt="GitHub Streak" 
+    width="100%" 
+    style="border-radius: 12px; box-shadow: 0 5px 15px rgba(59,130,246,0.3); margin-bottom: 20px;"
+  />
 
-<br/>
-
-<!-- Top languages by repo and commit side by side -->
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bileldh-ing&theme=tokyonight" 
-  alt="Languages by Repo" 
-  width="290" 
-  style="display:inline-block; margin-right:10px;"
-/>
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bileldh-ing&theme=tokyonight" 
-  alt="Languages by Commit" 
-  width="290" 
-  style="display:inline-block;"
-/>
+  <!-- Language Stats -->
+  <div style="display: flex; justify-content: center; gap: 15px;">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bileldh-ing&theme=dark" 
+      alt="Languages by Repo" 
+      width="48%" 
+      style="border-radius: 12px; box-shadow: 0 5px 15px rgba(59,130,246,0.3);"
+    />
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bileldh-ing&theme=dark" 
+      alt="Languages by Commit" 
+      width="48%" 
+      style="border-radius: 12px; box-shadow: 0 5px 15px rgba(59,130,246,0.3);"
+    />
+  </div>
 
 </div>
+
 
 
 
