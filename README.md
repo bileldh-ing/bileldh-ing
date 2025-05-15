@@ -55,9 +55,9 @@
 
 <div align="center">
 
-<!-- GitHub stats: public + private repos, stars, commits, PRs, issues -->
+<!-- GitHub stats without total commits (more stable) -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=bileldh-ing&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_title=true&hide_border=true" 
+  src="https://github-readme-stats.vercel.app/api?username=bileldh-ing&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&hide=commits" 
   alt="GitHub Stats" 
   width="600"
 />
@@ -88,6 +88,7 @@
 />
 
 </div>
+
 
 
 ---
