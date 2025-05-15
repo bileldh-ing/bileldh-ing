@@ -51,33 +51,37 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-<a href="https://github.com/bileldh-ing">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bileldh-ing&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&hide_border=false&include_all_commits=true&custom_title=📘%20My%20GitHub%20Stats" />
-</a>
-<a href="https://github.com/bileldh-ing">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=bileldh-ing&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
+<!-- Main stats row -->
+<p>
+  <img alt="Public Repos" src="https://img.shields.io/github/repos/bileldh-ing?style=for-the-badge&color=blue" />
+  <img alt="Private Repos" src="https://img.shields.io/github/private-repos/bileldh-ing?style=for-the-badge&color=green" />
+  <img alt="Total Commits" src="https://img.shields.io/github/commit-activity/y/bileldh-ing?style=for-the-badge&color=purple" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/bileldh-ing?style=for-the-badge&color=yellow" />
+</p>
 
-<br/>
+<!-- Additional stats row -->
+<p>
+  <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bileldh-ing?style=for-the-badge&color=orange" />
+  <img alt="Issues" src="https://img.shields.io/github/issues/bileldh-ing?style=for-the-badge&color=red" />
+  <img alt="Contributions" src="https://img.shields.io/badge/Contributions-Active-green?style=for-the-badge" />
+</p>
 
-<a href="https://github.com/bileldh-ing">
-  <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=bileldh-ing&theme=tokyo-night&hide_border=false" />
-</a>
+<!-- Streak stats from custom service -->
+<p>
+  <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com?user=bileldh-ing&theme=dark&hide_border=true" />
+</p>
 
-<br/>
-
-<a href="https://github.com/bileldh-ing">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bileldh-ing&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bileldh-ing&theme=tokyonight" />
-</a>
+<!-- Languages summary -->
+<p>
+  <img alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bileldh-ing&theme=tokyonight" />
+  <img alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bileldh-ing&theme=tokyonight" />
+</p>
 
 </div>
-
 
 ---
 
