@@ -55,33 +55,40 @@
 
 <div align="center">
 
-<!-- Main stats row -->
-<p>
-  <img alt="Public Repos" src="https://img.shields.io/github/repos/bileldh-ing?style=for-the-badge&color=blue" />
-  <img alt="Private Repos" src="https://img.shields.io/github/private-repos/bileldh-ing?style=for-the-badge&color=green" />
-  <img alt="Total Commits" src="https://img.shields.io/github/commit-activity/y/bileldh-ing?style=for-the-badge&color=purple" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/bileldh-ing?style=for-the-badge&color=yellow" />
-</p>
+<!-- GitHub stats: public + private repos, stars, commits, PRs, issues -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=bileldh-ing&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_title=true&hide_border=true" 
+  alt="GitHub Stats" 
+  width="600"
+/>
 
-<!-- Additional stats row -->
-<p>
-  <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bileldh-ing?style=for-the-badge&color=orange" />
-  <img alt="Issues" src="https://img.shields.io/github/issues/bileldh-ing?style=for-the-badge&color=red" />
-  <img alt="Contributions" src="https://img.shields.io/badge/Contributions-Active-green?style=for-the-badge" />
-</p>
+<br/>
 
-<!-- Streak stats from custom service -->
-<p>
-  <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com?user=bileldh-ing&theme=dark&hide_border=true" />
-</p>
+<!-- GitHub contribution streak -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=bileldh-ing&theme=tokyonight&hide_border=true" 
+  alt="GitHub Streak" 
+  width="600"
+/>
 
-<!-- Languages summary -->
-<p>
-  <img alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bileldh-ing&theme=tokyonight" />
-  <img alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bileldh-ing&theme=tokyonight" />
-</p>
+<br/>
+
+<!-- Top languages by repo and commit side by side -->
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bileldh-ing&theme=tokyonight" 
+  alt="Languages by Repo" 
+  width="290" 
+  style="display:inline-block; margin-right:10px;"
+/>
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bileldh-ing&theme=tokyonight" 
+  alt="Languages by Commit" 
+  width="290" 
+  style="display:inline-block;"
+/>
 
 </div>
+
 
 ---
 
